@@ -1,2 +1,2 @@
 # hello-world
-dipping my toes in github
+I'm an IT guy trying to expand my knowledge on the development side.
